@@ -9,11 +9,11 @@
 ###特性描述
 ###API介绍
 ###例子
-''' C
+~~~ C
 #include <linux/list.h>
 
 
-'''
+~~~
 
 ##KFifo
 ###特性描述
