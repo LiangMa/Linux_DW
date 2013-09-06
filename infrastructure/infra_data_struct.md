@@ -3,7 +3,10 @@
 ##List
 ###特性描述
 > **双向循环链表**
-![alt text](./pics/Linux_List.png_ "双向循环链表")
+![alt text](./pics/Linux_List.png "双向循环链表")
+
+
+
 ----------
 ###API介绍
 ###例子
