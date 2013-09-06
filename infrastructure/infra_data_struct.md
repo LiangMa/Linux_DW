@@ -2,12 +2,18 @@
 
 ##List
 ###特性描述
+Linux 中最常用最基本的数据结构， 利用 gcc扩展  containerof 编译时计算出所在数据结构的偏移量，从而轻易获得整个链表节点的地址
+   
+     
+    
 > **双向循环链表**
-![alt text](./pics/Linux_List.png "双向循环链表")
+![alt text](./pics/Linux_List.png "双向循环链表")    
 
 
 
-----------
+----------   
+
+
 ###API介绍
 ###例子
 ###实现剖析
