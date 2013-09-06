@@ -2,7 +2,7 @@
 
 ##List
 ###特性描述
-Linux 中最常用最基本的数据结构， 利用 gcc扩展  containerof[#ContianerOf] 编译时计算出所在数据结构的偏移量，从而轻易获得整个链表节点的地址
+Linux 中最常用最基本的数据结构， 利用 gcc扩展 [containerof](#ContianerOf) 编译时计算出所在数据结构的偏移量，从而轻易获得整个链表节点的地址
    
      
     
