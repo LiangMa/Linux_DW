@@ -22,6 +22,13 @@ Linux 中最常用最基本的数据结构， 双向循环链表。 不同于通
 
 ##HList
 在Hash table 中使用到的链表结构， 改进自List， 更加节省空间
+
+
+>  **Hash循环链表:**      
+
+![alt text](./pics/Linux_Hlist.png "Hash循环链表")    
+
+
 ###特性描述
 ###API介绍
 ###例子
