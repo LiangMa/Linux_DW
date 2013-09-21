@@ -44,6 +44,19 @@ Linux 中最常用最基本的数据结构， 双向循环链表。 不同于通
 ###实现剖析
 
 ##Read Copy Update 简介
+### RCU 核心思想
+RCU  最基本的想法就是把更新的过程分解为 两部分
+1. 去引用
+2. 更新
+
+### RCU 核心 API
+
+#### rcu_read_lock()
+#### rcu_read_unlock()
+#### synchronize_rcu()
+#### rcu_assign_pointer()
+#### rcu_dereference()
+
 ##RCUList
 ###特性描述
 ###API介绍
