@@ -2,10 +2,11 @@
 ##Linux Kernel Introduction
 ###Linux Kernel  History
 ###Linux Branch system
-###Linuc Coding Starstand 
+###Linuc Coding Stanstard
 
-##Gcc extension
-
+##Gcc 
+###Gcc externsion
+###Gcc inline ASM
 ##Make Introduction
 ###Basic usage
 ###Linux kernel Make file system
@@ -31,11 +32,13 @@
 ##General Data Structure
 
 
-
+##Device Model
+###Kobject, Ktype, Kset
+###sysfs
 
 
 
 #Appendix
 ##Git 
 ##How to Patch 
-##Gcc inline ASM
+
