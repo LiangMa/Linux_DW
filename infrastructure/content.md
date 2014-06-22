@@ -56,5 +56,5 @@
 
 #Appendix
 ##Git 
-##How to Patch 
+##How to submit a Patch 
 
