@@ -3,6 +3,7 @@
 ###Linux Kernel  History
 ###Linux Branch system
 ###Linuc Coding Stanstard
+###How to get kernel ?
 
 ##Gcc 
 ###Gcc externsion
