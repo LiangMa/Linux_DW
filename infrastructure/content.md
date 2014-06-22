@@ -18,11 +18,18 @@
 ###Priority Queue
 ###RBTree
 
+##Memory and Cache
+### Cache coherence
+### MESA
+### X86 
+### Arm ?
+
 ##Lock 
 ### actomic 
 ### spinlock
 ### semphore
 ### mutex
+### rwlock
 
 ##RCU Introduction
 ###Why RCU
@@ -30,7 +37,9 @@
 ###RCU Data structre
 
 ##General Data Structure
-
+###Notify Chain
+###Workqueue
+###
 
 ##Device Model
 ###Kobject, Ktype, Kset
