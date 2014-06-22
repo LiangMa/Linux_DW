@@ -41,13 +41,14 @@
 ##General Data Structure
 ###Notify Chain
 ###Workqueue
-###
+###Timer
 
 ##Device Model
 ###Kobject, Ktype, Kset
 ###sysfs
 
 ##Tips 
+###printk
 ###SystemTap
 ###kgdb
 ###kgtp
