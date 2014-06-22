@@ -11,6 +11,11 @@
 ###Linux kernel Make file system
 
 ##Basic Data Structure 
+###List
+###Hlist
+###Fifo
+###Priority Queue
+###RBTree
 
 ##Lock 
 ### actomic 
@@ -19,8 +24,9 @@
 ### mutex
 
 ##RCU Introduction
+###Why RCU
+### Memory  Barrier
 ###RCU Data structre
-
 
 ##General Data Structure
 
