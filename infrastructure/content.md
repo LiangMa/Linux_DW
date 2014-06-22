@@ -4,6 +4,7 @@
 ###Linux Branch system
 ###Linuc Coding Stanstard
 ###How to get kernel ?
+###How to do the code navigate ?
 
 ##Gcc 
 ###Gcc externsion
@@ -46,6 +47,10 @@
 ###Kobject, Ktype, Kset
 ###sysfs
 
+##Tips 
+###SystemTap
+###kgdb
+###kgtp
 
 
 #Appendix
